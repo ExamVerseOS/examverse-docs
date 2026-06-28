@@ -1,64 +1,181 @@
-# ExamVerseOS
+🚀 ExamVerseOS
 
-> One Platform. Every Exam.
+One Platform. Every Exam.
 
-ExamVerseOS is an open, AI-powered platform designed to transform official examination information into structured, searchable, and personalized learning experiences.
+ExamVerseOS is an open, AI-powered knowledge operating system for examinations.
 
-Instead of creating separate applications for every examination, ExamVerseOS provides a unified knowledge platform capable of supporting competitive, academic, professional, and certification exams through a modular architecture.
+Our mission is to transform official examination information into structured, searchable, and intelligent knowledge that helps learners prepare more effectively.
 
-## Vision
+Rather than building separate applications for every examination, ExamVerseOS provides a modular platform capable of supporting competitive, academic, professional, and certification exams through a common architecture.
 
-Build the world's most trusted AI knowledge platform for examinations.
+⸻
 
-## Mission
+🌍 Vision
 
-Convert official exam information into structured knowledge that enables intelligent search, personalized learning, AI tutoring, revision planning, and analytics.
+Build the world’s most trusted AI-powered knowledge platform for examinations.
 
-## Core Principles
+⸻
 
-- Official information first
-- AI assists, not replaces
-- Modular architecture
-- Open standards
-- Privacy by design
-- Mobile-first
-- Scalable from one exam to thousands
+🎯 Mission
 
-## Current Status
+Convert official examination information into structured knowledge that enables:
+
+* Intelligent semantic search
+* AI-powered tutoring
+* Personalized study planning
+* Previous year question mapping
+* Revision planning
+* Mock analysis
+* Learning analytics
+* Knowledge graphs
+* Cross-exam concept linking
+
+⸻
+
+✨ Core Principles
+
+📖 Official Information First
+
+Every feature is grounded in official notifications, syllabi, and publicly available examination information.
+
+🧠 Knowledge Before AI
+
+AI is an interface—not the source of truth.
+
+Structured knowledge comes first.
+
+🧩 Modular Architecture
+
+Every examination should plug into the same platform.
+
+Adding a new exam should require minimal engineering effort.
+
+📱 Mobile First
+
+Designed primarily for smartphones and Progressive Web Apps.
+
+🔒 Privacy by Design
+
+User data belongs to the user.
+
+Privacy and security are foundational, not optional.
+
+🌎 Open by Default
+
+Documentation, architecture, and development practices are designed to encourage community contributions.
+
+⸻
+
+🏗️ Current Phase
 
 🚧 Phase 1 — Architecture & Documentation
 
-## Initial Target
+Current focus:
 
-UPSC Civil Services Examination
+* Product vision
+* System architecture
+* Database design
+* AI architecture
+* Data ingestion pipeline
+* API specifications
+
+⸻
+
+🎯 Initial Target
+
+The first supported examination is:
+
+* UPSC Civil Services Examination (CSE)
+
+The platform architecture is designed to support many more.
 
 Future support includes:
 
-- State PSC
-- SSC
-- Banking
-- Railways
-- JEE
-- NEET
-- GATE
-- CAT
-- CLAT
-- International certifications
+* State PSC
+* SSC
+* Banking
+* Railways
+* JEE
+* NEET
+* GATE
+* CAT
+* CLAT
+* Professional certifications
+* International examinations
 
-## Repository Structure
+⸻
 
-- examverse-docs
-- examverse-core
-- examverse-api
-- examverse-web
-- examverse-admin
-- examverse-ingestion
-- examverse-ai
-- examverse-db
-- examverse-mobile
-- examverse-design
-- examverse-devops
+🏛️ Repository Structure
 
-## License
+ExamVerseOS
+examverse-docs
+examverse-core
+examverse-api
+examverse-web
+examverse-admin
+examverse-ingestion
+examverse-ai
+examverse-db
+examverse-mobile
+examverse-design
+examverse-devops
+.github
 
-To be decided.
+⸻
+
+🧱 High-Level Architecture
+
+Official Sources
+        │
+        ▼
+ Ingestion Engine
+        │
+        ▼
+ Knowledge Database
+        │
+        ▼
+ Semantic Search
+        │
+        ▼
+ AI Intelligence Layer
+        │
+        ▼
+ REST / GraphQL APIs
+        │
+        ▼
+ Web • Mobile • Admin
+
+⸻
+
+📅 Roadmap
+
+* Phase 1 — Documentation
+* Phase 2 — UPSC Knowledge Base
+* Phase 3 — AI Tutor
+* Phase 4 — Progressive Web App
+* Phase 5 — Beta Release
+* Phase 6 — Multi-Exam Support
+* Phase 7 — Public APIs
+* Phase 8 — Knowledge Graph
+* Phase 9 — Community Contributions
+* Phase 10 — Global Learning Platform
+
+⸻
+
+🤝 Contributing
+
+Community guidelines, coding standards, architecture decisions, and contribution workflows will be documented in this repository.
+
+⸻
+
+📄 License
+
+License to be decided before the first public release.
+
+⸻
+
+⭐ Our Goal
+
+To build the AI Operating System for structured learning—starting with competitive examinations and expanding into lifelong education.
+
+One Platform. Every Exam.
